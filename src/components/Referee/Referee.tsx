@@ -234,7 +234,7 @@ export default function Referee() {
   return (
     <>
       <p style={{ color: "white", fontSize: "24px", textAlign: "center" }}>
-        Total turns: {board.totalTurns}
+        Feito por: Emanuele, Jhonatan e Lucas José
       </p>
       <div className="modal hidden" ref={modalRef}>
         <div className="modal-body">
